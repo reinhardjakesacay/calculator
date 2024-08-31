@@ -13,5 +13,24 @@ body{
     padding: 15px;
     margin: 15px;
     border-radius: 15px;
-    background-color: aquamarine;
+    border: solid black;
+}
+table tr td {
+    border-radius: 5px;
+}
+#number{
+    border-radius: 5px;
+    width: 180px;
+    height: 30px;
+}
+input[type=button]{
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    width: 35px;
+    height: 35px;
+}
+tr td .AC {
+    width: 80px;
+    height: 35px;
 }
